@@ -6,10 +6,10 @@
 
 <div align="center">
 	<div align="left">
-		<img src="https://komarev.com/ghpvc/?username=hardingadonis&label=Profile%20views&color=0e75b6&style=flat" alt="hardingadonis" />
+		<img src="https://komarev.com/ghpvc/?username=siddle1512&label=Profile%20views&color=0e75b6&style=flat" alt="siddle1512" />
 	</div>
 	<div>
-		<img align="right" atl="Banner" width="480" src="imgs/peaceful-banner.gif"/>
+		<img align="right" atl="Banner" width="480" src="https://i.pinimg.com/originals/aa/7c/11/aa7c1150d67b3ce332c84a90423072f5.gif"/>
 	</div>
 </div>
 
