@@ -4,6 +4,27 @@
 	</a>
 </h1
 
+<div align="center">
+	<div align="left">
+		<img src="https://komarev.com/ghpvc/?username=hardingadonis&label=Profile%20views&color=0e75b6&style=flat" alt="hardingadonis" />
+	</div>
+	<div>
+		<img align="right" atl="Banner" width="480" src="imgs/peaceful-banner.gif"/>
+	</div>
+</div>
+
+### About me
+
+- 🎓 I'm a student at FPT University Quy Nhơn AI Campus.
+
+- 🔮 I want to become a software engineer.
+
+- ❤️ Coding, writing novels, listening to EDM, and anything about code.
+
+- 🔭 I’m currently learning **.NET**
+
+- 💬 Ask me about **C#, Java**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/minhquang0803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="minhquang0803" height="30" width="40" /></a>
