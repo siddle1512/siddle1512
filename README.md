@@ -25,15 +25,7 @@
 
 - 💬 Ask me about **C#, Java**
 
-<div align="center">
-		<picture>
-			<source srcset="https://github-readme-stats.vercel.app/api?username=hardingadonis&theme=dark" media="(prefers-color-scheme: dark)"/>
-			<source srcset="https://github-readme-stats.vercel.app/api?username=hardingadonis&theme=light" media="(prefers-color-scheme: light)"/>
-			<img src="https://github-readme-stats.vercel.app/api?username=hardingadonis"/>
-		</picture>
-	</div>
-
-<h3 align="left">Connect with me:</h3>
+### Connect with me
 <p align="left">
 <a href="https://discord.gg/minhquang0803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="minhquang0803" height="30" width="40" /></a>
 </p>
