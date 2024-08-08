@@ -19,7 +19,7 @@
 
 - 🔮 I want to become a software engineer.
 
-- ❤️ Coding, writing novels, listening to EDM, and anything about code.
+- ❤️ Anime, listening to EDM, and anything about code.
 
 - 🔭 I’m currently learning **.NET**
 
