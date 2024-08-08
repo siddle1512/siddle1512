@@ -1,6 +1,6 @@
 <h1 align="center">
 	<a 
-	href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&center=true&vCenter=true&width=435&height=80&lines=Hi%F0%9F%99%82;I'm+Siddle%F0%9F%98%84" 		alt="Typing SVG" />
+	href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&center=true&vCenter=true&width=435&height=80&lines=Hi%F0%9F%99%82;I'm+Siddle%F0%9F%98%84"alt="Typing SVG" />
 	</a>
 </h1
 
@@ -15,11 +15,11 @@
 
 ### About me
 
-- 🎓 I'm a student at FPT University Quy Nhơn AI Campus.
+- 🎓 I'm a student at FPT University Quy Nhơn
 
-- 🔮 I want to become a software engineer.
+- 🔮 I want to become a software engineer
 
-- ❤️ Anime, listening to EDM, and anything about code.
+- ❤️ Anime, Minecraft
 
 - 🔭 I’m currently learning **.NET**
 
