@@ -14,9 +14,6 @@
 </div>
 
 ### About me
-
-- 🎓 I'm a student at FPT University Quy Nhơn
-
 - 🔮 I want to become a software engineer
 
 - ❤️ Anime, Minecraft
