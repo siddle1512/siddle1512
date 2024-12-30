@@ -9,14 +9,14 @@
 		<img src="https://komarev.com/ghpvc/?username=siddle1512&label=Profile%20views&color=0e75b6&style=flat" alt="siddle1512" />
 	</div>
 	<div>
-		<img align="right" atl="Banner" width="480" src="https://i.pinimg.com/originals/aa/7c/11/aa7c1150d67b3ce332c84a90423072f5.gif"/>
+		<img align="right" atl="Banner" width="480" src="https://wallpaperaccess.com/full/8351171.gif"/>
 	</div>
 </div>
 
 ### About me
 - 🔮 I want to become a software engineer
 
-- ❤️ Anime, Minecraft
+- ❤️ Anime
 
 - 🔭 I’m currently learning **.NET**
 
