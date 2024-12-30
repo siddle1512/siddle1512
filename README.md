@@ -1,6 +1,5 @@
 <h1 align="center">
-	<a 
-	href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&pause=1000&center=true&vCenter=true&width=435&height=80&lines=Hi%F0%9F%99%82;I'm+Siddle%F0%9F%98%84"alt="Typing SVG" />
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello!" alt="Typing SVG" />
 	</a>
 </h1
 
@@ -24,7 +23,7 @@
 
 ### Connect with me
 <p align="left">
-	<a href="https://discord.gg/minhquang0803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 		alt="minhquang0803" height="30" width="40" /></a>
+	<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 		alt="" height="30" width="40" /></a>
 </p>
 
 ### Support
